@@ -1,5 +1,5 @@
 # Keyboard Tester
-This simpler app allows you to test your on-screen keyboard and verify its compatibility with custom on-screen keyboard.
+This simpler app allows you to test your on-screen keyboard and verify its compatibility with your custom on-screen keyboard.
 # How to use
 Just click Test or Enter text here and Type text.
 # Screenshot
